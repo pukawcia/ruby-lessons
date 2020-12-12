@@ -1,4 +1,4 @@
 
-puts "Podaj swoje imie"
-imie = gets
-puts "hello " + imie
+puts "Please enter Your name"
+name = gets
+puts "hello " + name
